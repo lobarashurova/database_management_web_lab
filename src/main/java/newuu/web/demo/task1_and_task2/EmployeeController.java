@@ -1,4 +1,4 @@
-package newuu.web.demo.task1;
+package newuu.web.demo.task1_and_task2;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

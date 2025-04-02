@@ -1,7 +1,7 @@
-package newuu.web.demo.task1;
+package newuu.web.demo.task1_and_task2;
 
 import jakarta.persistence.*;
-import newuu.web.demo.task2.TaskEntity;
+import newuu.web.demo.task3.TaskEntity;
 
 import java.util.HashSet;
 import java.util.Set;

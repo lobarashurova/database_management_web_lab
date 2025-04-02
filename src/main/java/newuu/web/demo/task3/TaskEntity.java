@@ -1,7 +1,7 @@
-package newuu.web.demo.task2;
+package newuu.web.demo.task3;
 
 import jakarta.persistence.*;
-import newuu.web.demo.task1.EmployeeModel;
+import newuu.web.demo.task1_and_task2.EmployeeModel;
 
 import java.util.*;
 
